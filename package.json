@@ -1,0 +1,16 @@
+{
+  "name": "arcane-city-rss-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Arcane City calendar events for the next two weeks and generate an RSS feed.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node scrape-arcane-rss.mjs --output feed.xml",
+    "scrape": "node scrape-arcane-rss.mjs --output feed.xml",
+    "dry-run": "node scrape-arcane-rss.mjs --dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
