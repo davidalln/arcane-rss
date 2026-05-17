@@ -71,6 +71,7 @@ async function main() {
         venue: cached.venue,
         flierUrl: cached.flierUrl,
         pageSummary: cached.summary,
+        cachedPubDate: cached.pubDate,
       };
     }
 
@@ -169,8 +170,9 @@ async function loadCache(path) {
       const summaryMatch = description.match(/<p>(?!<img)([\s\S]*?)<\/p>/i);
       const summary = summaryMatch ? summaryMatch[1] : '';
 
+      const pubDate = matchFirst(content, /<pubDate>([^<]+)<\/pubDate>/);
       if (link) {
-        cache.set(link, { flierUrl: flierUrl || '', venue, summary });
+        cache.set(link, { flierUrl: flierUrl || '', venue, summary, pubDate });
       }
     }
   } catch (error) {
@@ -349,14 +351,16 @@ function buildRss(events, options) {
 
 function buildRssItem(event) {
   const eventDate = parseCalendarDate(event.start);
-  const pubDate = new Date(eventDate.getTime() - DEFAULT_DAYS * 24 * 60 * 60 * 1000);
   const titleDate = formatEventDate(eventDate);
   const titleVenue = event.venue ? ` @ ${event.venue}` : '';
   const title = `${titleDate} ${event.title || 'Untitled event'}${titleVenue}`;
   const guid = event.eventUrl || `${ARCANE_HTTP_ORIGIN}${event.url}`;
   const htmlDescription = buildHtmlDescription(event);
 
-  return `    <item>\n      <title>${xmlEscape(title)}</title>\n      <link>${xmlEscape(event.eventUrl)}</link>\n      <guid isPermaLink="true">${xmlEscape(guid)}</guid>\n      <pubDate>${pubDate.toUTCString()}</pubDate>\n      <description><![CDATA[${htmlDescription}]]></description>\n    </item>`;
+  // Use cached pubDate if available, otherwise use current time for new events
+  const pubDateStr = event.cachedPubDate || new Date().toUTCString();
+
+  return `    <item>\n      <title>${xmlEscape(title)}</title>\n      <link>${xmlEscape(event.eventUrl)}</link>\n      <guid isPermaLink="true">${xmlEscape(guid)}</guid>\n      <pubDate>${pubDateStr}</pubDate>\n      <description><![CDATA[${htmlDescription}]]></description>\n    </item>`;
 }
 
 function buildHtmlDescription(event) {
