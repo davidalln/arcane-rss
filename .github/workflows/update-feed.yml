@@ -2,7 +2,7 @@ name: Update Arcane City RSS Feed
 
 on:
   schedule:
-    - cron: '17 10 * * *'
+    - cron: '0 4,16 * * *'
   workflow_dispatch:
 
 permissions:
