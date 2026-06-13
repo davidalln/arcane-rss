@@ -6,7 +6,7 @@
     <atom:link href="http://arcane.city/calendar" rel="self" type="application/rss+xml" />
     <description>Upcoming Arcane City events from 2026-06-13 through the next 14 days.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 07:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 17:14:12 GMT</lastBuildDate>
     <item>
       <title>[06/13] Allentown Night Market @ The Weeping Glass</title>
       <link>http://arcane.city/events/allentown-night-market</link>
@@ -188,16 +188,6 @@
 <p><a href="http://arcane.city/events/worm-at-thunderbird-2026-06-15">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
-      <title>[06/16] The Playful Bunch / Vesuvian / Tuxis Giant / 7D @ Skyzone 2</title>
-      <link>http://arcane.city/events/the-playful-bunch-vesuvian-tuxis-giant-7d</link>
-      <guid isPermaLink="true">http://arcane.city/events/the-playful-bunch-vesuvian-tuxis-giant-7d</guid>
-      <pubDate>Wed, 03 Jun 2026 08:48:30 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1778082999_ffeb962a-ee5a-44c6-9024-766b24132fe9.webp" alt="The Playful Bunch / Vesuvian / Tuxis Giant / 7D flier" /></p>
-<p>A backyard DIY show featuring touring acts from Philadelphia and NYC alongside local Pittsburgh performers, with a BBQ before the event.</p>
-<p><strong>Venue:</strong> Skyzone 2</p>
-<p><a href="http://arcane.city/events/the-playful-bunch-vesuvian-tuxis-giant-7d">View event on Arcane City</a></p>]]></description>
-    </item>
-    <item>
       <title>[06/16] Real Shocks / United Stare / Clobberin&apos; Time @ Ormsby Cafe</title>
       <link>http://arcane.city/events/real-shocks-united-stare-clobberin-time</link>
       <guid isPermaLink="true">http://arcane.city/events/real-shocks-united-stare-clobberin-time</guid>
@@ -283,7 +273,7 @@
       <guid isPermaLink="true">http://arcane.city/events/american-tune-simon-croce-taylor</guid>
       <pubDate>Fri, 12 Jun 2026 18:00:29 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1737152676_286672316_103099069104174_6265077663602951003_n.webp" alt="American Tune: Simon, Croce &amp; Taylor flier" /></p>
-<p>An evening of Paul Simon, Jim Croce &amp;amp; James Taylor songs &amp;amp; stories</p>
+<p>An evening of Paul Simon, Jim Croce &amp;amp;amp; James Taylor songs &amp;amp;amp; stories</p>
 <p><strong>Venue:</strong> City Winery</p>
 <p><a href="http://arcane.city/events/american-tune-simon-croce-taylor">View event on Arcane City</a></p>]]></description>
     </item>
