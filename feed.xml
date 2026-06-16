@@ -4,29 +4,9 @@
     <title>Arcane City Events - Next 14 Days</title>
     <link>http://arcane.city/calendar</link>
     <atom:link href="http://arcane.city/calendar" rel="self" type="application/rss+xml" />
-    <description>Upcoming Arcane City events from 2026-06-15 through the next 14 days.</description>
+    <description>Upcoming Arcane City events from 2026-06-16 through the next 14 days.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 19:38:24 GMT</lastBuildDate>
-    <item>
-      <title>[06/15] Chamber Music Pittsburgh Presents: The Cowboy Evolves — Journeys Through the Music of the Americas @ City of Asylum</title>
-      <link>http://arcane.city/events/the-cowboy-evolves-journeys-through-the-music-of-the-americas</link>
-      <guid isPermaLink="true">http://arcane.city/events/the-cowboy-evolves-journeys-through-the-music-of-the-americas</guid>
-      <pubDate>Wed, 03 Jun 2026 19:42:47 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1661623255_City_of_Asylum_Logo.svg.png" alt="Chamber Music Pittsburgh Presents: The Cowboy Evolves — Journeys Through the Music of the Americas flier" /></p>
-<p>This Pittsburgh Performs concert, curated by Carlos Clark, features music by composers from the US, Uruguay, and Brazil, offering a vibrant vision of discovery while simultaneously reflecting on the complex history of the Americas.</p>
-<p><strong>Venue:</strong> City of Asylum</p>
-<p><a href="http://arcane.city/events/the-cowboy-evolves-journeys-through-the-music-of-the-americas">View event on Arcane City</a></p>]]></description>
-    </item>
-    <item>
-      <title>[06/15] Worm at Thunderbird @ Thunderbird</title>
-      <link>http://arcane.city/events/worm-at-thunderbird-2026-06-15</link>
-      <guid isPermaLink="true">http://arcane.city/events/worm-at-thunderbird-2026-06-15</guid>
-      <pubDate>Tue, 02 Jun 2026 08:21:30 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1773850372_652267415_1383927980434354_6870938788856257314_n.webp" alt="Worm at Thunderbird flier" /></p>
-<p>NECROMANTIC BLACK DOOM</p>
-<p><strong>Venue:</strong> Thunderbird</p>
-<p><a href="http://arcane.city/events/worm-at-thunderbird-2026-06-15">View event on Arcane City</a></p>]]></description>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 09:19:27 GMT</lastBuildDate>
     <item>
       <title>[06/16] Real Shocks / United Stare / Clobberin&apos; Time @ Ormsby Cafe</title>
       <link>http://arcane.city/events/real-shocks-united-stare-clobberin-time</link>
@@ -123,7 +103,7 @@
       <guid isPermaLink="true">http://arcane.city/events/american-tune-simon-croce-taylor</guid>
       <pubDate>Fri, 12 Jun 2026 18:00:29 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1737152676_286672316_103099069104174_6265077663602951003_n.webp" alt="American Tune: Simon, Croce &amp; Taylor flier" /></p>
-<p>An evening of Paul Simon, Jim Croce &amp;amp;amp;amp;amp;amp;amp; James Taylor songs &amp;amp;amp;amp;amp;amp;amp; stories</p>
+<p>An evening of Paul Simon, Jim Croce &amp;amp;amp;amp;amp;amp;amp;amp; James Taylor songs &amp;amp;amp;amp;amp;amp;amp;amp; stories</p>
 <p><strong>Venue:</strong> City Winery</p>
 <p><a href="http://arcane.city/events/american-tune-simon-croce-taylor">View event on Arcane City</a></p>]]></description>
     </item>
@@ -185,6 +165,16 @@
 <p>Roots Sessions and Dub-Stuy present a Reggae, Dub, and Jungle sound system experience featuring Ras Demo (UK) and Jonnygo Figure (NY) at Hop Farm Brewing Co.</p>
 <p><strong>Venue:</strong> Hop Farm Brewing Company</p>
 <p><a href="http://arcane.city/events/a-rub-a-dub-experience-tour-w-ras-demo-uk-jonnygo-figure">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[06/19] Live in The Lobby: DR. KARAMELOV b2b Lefafa @ Field Day</title>
+      <link>http://arcane.city/events/live-in-the-lobby-dr-karamelov-b2b-lefafa</link>
+      <guid isPermaLink="true">http://arcane.city/events/live-in-the-lobby-dr-karamelov-b2b-lefafa</guid>
+      <pubDate>Tue, 16 Jun 2026 09:19:27 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1781575504_2b8bc7f4-cae7-4b4f-945a-2d7bcb4e633a.webp" alt="Live in The Lobby: DR. KARAMELOV b2b Lefafa flier" /></p>
+<p>DR. KARAMELOV and Lefafa go back-to-back for a Friday night DJ set at The Lobby Bar.</p>
+<p><strong>Venue:</strong> Field Day</p>
+<p><a href="http://arcane.city/events/live-in-the-lobby-dr-karamelov-b2b-lefafa">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
       <title>[06/19] PRIDE NIGHT @ Poetry Lounge</title>
@@ -255,6 +245,16 @@
 <p>An all-ages Pride punk/hardcore showcase at Mr. Small's Funhouse featuring eight performers and emceed by Zelda Kollins and Brie Griffith.</p>
 <p><strong>Venue:</strong> Mr. Smalls</p>
 <p><a href="http://arcane.city/events/pittsburgh-pride-in-the-pit">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[06/20] Hardcore Matinee @ Cousins Lounge</title>
+      <link>http://arcane.city/events/hardcore-matinee</link>
+      <guid isPermaLink="true">http://arcane.city/events/hardcore-matinee</guid>
+      <pubDate>Tue, 16 Jun 2026 09:19:27 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1781590259_b2b6ab73-40f4-49b3-ab4d-f59f6df48d76.webp" alt="Hardcore Matinee flier" /></p>
+<p>An all-ages hardcore matinee show featuring Brick Shot, Moemaw Naedon, Cultivator, Cold Call, and Neckdarit at Cousins Lounge in Millvale, PA.</p>
+<p><strong>Venue:</strong> Cousins Lounge</p>
+<p><a href="http://arcane.city/events/hardcore-matinee">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
       <title>[06/20] Litha @ Club Pittsburgh</title>
@@ -622,13 +622,13 @@
 <p><a href="http://arcane.city/events/rising-seas-vulgar-machines-east-coast-envy">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
-      <title>[06/27] ACT UP PGH x Pamplemousse Prom @ Mary&amp;amp;amp;apos;s</title>
+      <title>[06/27] ACT UP PGH x Pamplemousse Prom @ Mary&amp;amp;amp;amp;apos;s</title>
       <link>http://arcane.city/events/act-up-pgh-x-pamplemousse-prom</link>
       <guid isPermaLink="true">http://arcane.city/events/act-up-pgh-x-pamplemousse-prom</guid>
       <pubDate>Sun, 14 Jun 2026 08:09:41 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1780433958_f2f2b605-8921-4372-8bef-d28e2e2a83ea.webp" alt="ACT UP PGH x Pamplemousse Prom flier" /></p>
 <p>A fizzy sapphic dance party prom night with DJs UV Loop and Mary Mack, benefiting ACT UP PGH and TransYouniting.</p>
-<p><strong>Venue:</strong> Mary&amp;amp;amp;apos;s</p>
+<p><strong>Venue:</strong> Mary&amp;amp;amp;amp;apos;s</p>
 <p><a href="http://arcane.city/events/act-up-pgh-x-pamplemousse-prom">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
@@ -659,6 +659,36 @@
 <p>Blackseed Services presents Rugg-A-Palooza II: Judgement Day, a free multi-band rock showcase at Ruggers in Pittsburgh.</p>
 <p><strong>Venue:</strong> Ruggers</p>
 <p><a href="http://arcane.city/events/rugg-a-palooza-ii-judgement-day">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[06/28] Oracle Plus, Evil Curtain, Bella Figlia @ Telephone</title>
+      <link>http://arcane.city/events/oracle-plus-evil-curtain-bella-figlia</link>
+      <guid isPermaLink="true">http://arcane.city/events/oracle-plus-evil-curtain-bella-figlia</guid>
+      <pubDate>Tue, 16 Jun 2026 09:19:27 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1781555039_acdcd10c-21a0-4ac4-b73d-5febd0a5cb47.webp" alt="Oracle Plus, Evil Curtain, Bella Figlia flier" /></p>
+<p>A surrealist theater and music night featuring Oracle Plus from NM, Evil Curtain of 7d, and Bella Figlia at Telephone Bar in Pittsburgh.</p>
+<p><strong>Venue:</strong> Telephone</p>
+<p><a href="http://arcane.city/events/oracle-plus-evil-curtain-bella-figlia">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[06/29] Heavy Peasant, Better Plastic, Challice, Urns @ The Government Center</title>
+      <link>http://arcane.city/events/heavy-peasant-better-plastic-challice-urns</link>
+      <guid isPermaLink="true">http://arcane.city/events/heavy-peasant-better-plastic-challice-urns</guid>
+      <pubDate>Tue, 16 Jun 2026 09:19:27 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1779894253_6.29.26%20flyer%281%29.webp" alt="Heavy Peasant, Better Plastic, Challice, Urns flier" /></p>
+<p>NYC-based noisepunk/hardcore/powerviolence trio Better Plastic is on tour with Challice &amp; will be joined by locals Urns and Heavy Peasant</p>
+<p><strong>Venue:</strong> The Government Center</p>
+<p><a href="http://arcane.city/events/heavy-peasant-better-plastic-challice-urns">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[06/29] An Evening with Souled American @ Spirit</title>
+      <link>http://arcane.city/events/an-evening-with-souled-american</link>
+      <guid isPermaLink="true">http://arcane.city/events/an-evening-with-souled-american</guid>
+      <pubDate>Tue, 16 Jun 2026 09:19:27 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1780333105_a5b98530-d005-4501-a4ce-f48618392215.webp" alt="An Evening with Souled American flier" /></p>
+<p>Legendary alt-country band Souled American performs an intimate evening show at Spirit Lodge in Pittsburgh.</p>
+<p><strong>Venue:</strong> Spirit</p>
+<p><a href="http://arcane.city/events/an-evening-with-souled-american">View event on Arcane City</a></p>]]></description>
     </item>
   </channel>
 </rss>
