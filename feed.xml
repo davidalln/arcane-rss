@@ -6,7 +6,7 @@
     <atom:link href="http://arcane.city/calendar" rel="self" type="application/rss+xml" />
     <description>Upcoming Arcane City events from 2026-07-15 through the next 14 days.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 06:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 17:07:40 GMT</lastBuildDate>
     <item>
       <title>[07/15] Memphis May Fire with Caskets, If Not For Me, and Royale Lynn @ Roxian Theater</title>
       <link>http://arcane.city/events/memphis-may-fire-with-caskets-if-not-for-me-and-royale-lynn</link>
@@ -43,7 +43,7 @@
       <guid isPermaLink="true">http://arcane.city/events/bangers-and-mash-brit-pop-belvederes-2026-07-16</guid>
       <pubDate>Mon, 13 Jul 2026 17:49:02 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1783964223_images%20%283%29.webp" alt="Bangers &amp; Mash flier" /></p>
-<p>Bangers &amp;amp;amp;amp; Mash — a Brit Pop night at Belvedere’s Ultra Dive.</p>
+<p>Bangers &amp;amp;amp;amp;amp; Mash — a Brit Pop night at Belvedere’s Ultra Dive.</p>
 <p><strong>Venue:</strong> Belvederes</p>
 <p><a href="http://arcane.city/events/bangers-and-mash-brit-pop-belvederes-2026-07-16">View event on Arcane City</a></p>]]></description>
     </item>
@@ -143,7 +143,7 @@
       <guid isPermaLink="true">http://arcane.city/events/july-open-mic-at-community-forge</guid>
       <pubDate>Mon, 13 Jul 2026 17:49:02 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1783951497_July%20OMN%202026%20Flyer.webp" alt="July Open Mic at Community Forge flier" /></p>
-<p>Open Mic &amp;amp;amp;amp; Open Stage with a live band of Pittsburgh's most talented musicians!</p>
+<p>Open Mic &amp;amp;amp;amp;amp; Open Stage with a live band of Pittsburgh's most talented musicians!</p>
 <p><strong>Venue:</strong> Community Forge at Community Forge</p>
 <p><a href="http://arcane.city/events/july-open-mic-at-community-forge">View event on Arcane City</a></p>]]></description>
     </item>
@@ -188,13 +188,13 @@
 <p><a href="http://arcane.city/events/technique-80s-dance-party-belvederes-2026-07-18">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
-      <title>[07/18] Warring Factions, The Parishables &amp; Last Protocol @ Porky&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Bar and Grill</title>
+      <title>[07/18] Warring Factions, The Parishables &amp; Last Protocol @ Porky&amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Bar and Grill</title>
       <link>http://arcane.city/events/warring-factions-the-parishables-last-protocol</link>
       <guid isPermaLink="true">http://arcane.city/events/warring-factions-the-parishables-last-protocol</guid>
       <pubDate>Sat, 11 Jul 2026 06:07:15 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1783707478_a629b166-40a7-4f4b-b61c-a586fd7f88cb.webp" alt="Warring Factions, The Parishables &amp; Last Protocol flier" /></p>
 <p>Three-band rock show at Porky's Bar and Grill in Etna, PA featuring Warring Factions, The Parishables, and Last Protocol.</p>
-<p><strong>Venue:</strong> Porky&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Bar and Grill</p>
+<p><strong>Venue:</strong> Porky&amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Bar and Grill</p>
 <p><a href="http://arcane.city/events/warring-factions-the-parishables-last-protocol">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
@@ -306,6 +306,16 @@
 <p><a href="http://arcane.city/events/rooftop-reggae-showcase">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
+      <title>[07/19] Argento Fest @ Death Comes Lifting</title>
+      <link>http://arcane.city/events/argento-fest</link>
+      <guid isPermaLink="true">http://arcane.city/events/argento-fest</guid>
+      <pubDate>Wed, 15 Jul 2026 17:07:40 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1784128929_4b9bf79e-64ea-4db3-8de9-430542296944.webp" alt="Argento Fest flier" /></p>
+<p>A horror-themed festival afterparty featuring a Giallo soundtrack dance party, film screenings, flash tattoos, pizza, and DJ Strawberry Bloodbath.</p>
+<p><strong>Venue:</strong> Death Comes Lifting</p>
+<p><a href="http://arcane.city/events/argento-fest">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
       <title>[07/19] Sherlock Holmes and the Web of Deceit @ Margaret Partee Performing Arts Center</title>
       <link>http://arcane.city/events/sherlock-holmes-and-the-web-of-deceit-19</link>
       <guid isPermaLink="true">http://arcane.city/events/sherlock-holmes-and-the-web-of-deceit-19</guid>
@@ -349,19 +359,19 @@
       <title>[07/20] CNM Social Club @ Belvederes</title>
       <link>http://arcane.city/events/cnm-social-club-belvederes-2026-07-20</link>
       <guid isPermaLink="true">http://arcane.city/events/cnm-social-club-belvederes-2026-07-20</guid>
-      <pubDate>Wed, 15 Jul 2026 06:08:14 GMT</pubDate>
+      <pubDate>Wed, 15 Jul 2026 17:07:40 GMT</pubDate>
       <description><![CDATA[<p>CNM Social Club at Belvedere’s Ultra Dive, free, 7–10pm.</p>
 <p><strong>Venue:</strong> Belvederes</p>
 <p><a href="http://arcane.city/events/cnm-social-club-belvederes-2026-07-20">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
-      <title>[07/20] Allure: Night for the Dolls @ Mary&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s</title>
+      <title>[07/20] Allure: Night for the Dolls @ Mary&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s</title>
       <link>http://arcane.city/events/allure-night-for-the-dolls</link>
       <guid isPermaLink="true">http://arcane.city/events/allure-night-for-the-dolls</guid>
       <pubDate>Tue, 07 Jul 2026 07:31:10 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1782921830_6477e99d-b795-4b86-b32f-c1f82961f15e.webp" alt="Allure: Night for the Dolls flier" /></p>
 <p>A glamorous 21+ club night at Mary's in Pittsburgh featuring beats by DJ Cereza.</p>
-<p><strong>Venue:</strong> Mary&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s</p>
+<p><strong>Venue:</strong> Mary&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s</p>
 <p><a href="http://arcane.city/events/allure-night-for-the-dolls">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
@@ -457,7 +467,7 @@
       <title>[07/23] Once More Into The Deep @ Belvederes</title>
       <link>http://arcane.city/events/once-more-into-the-deep-belvederes-2026-07-23</link>
       <guid isPermaLink="true">http://arcane.city/events/once-more-into-the-deep-belvederes-2026-07-23</guid>
-      <pubDate>Wed, 15 Jul 2026 06:08:14 GMT</pubDate>
+      <pubDate>Wed, 15 Jul 2026 17:07:40 GMT</pubDate>
       <description><![CDATA[<p>Once More Into The Deep — a deep house night at Belvedere’s Ultra Dive.</p>
 <p><strong>Venue:</strong> Belvederes</p>
 <p><a href="http://arcane.city/events/once-more-into-the-deep-belvederes-2026-07-23">View event on Arcane City</a></p>]]></description>
@@ -468,7 +478,7 @@
       <guid isPermaLink="true">http://arcane.city/events/that-fresh-air-tour</guid>
       <pubDate>Fri, 10 Jul 2026 07:27:34 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1773793172_69a20294d32ea88b8fd6207a_mundayy.webp" alt="&quot;That Fresh Air&quot; Tour flier" /></p>
-<p>Caribbean Breeze Records &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Sound Art Reality present the "That Fresh Air" Tour live at The Government Center in Pittsburgh.</p>
+<p>Caribbean Breeze Records &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Sound Art Reality present the "That Fresh Air" Tour live at The Government Center in Pittsburgh.</p>
 <p><strong>Venue:</strong> The Government Center</p>
 <p><a href="http://arcane.city/events/that-fresh-air-tour">View event on Arcane City</a></p>]]></description>
     </item>
@@ -516,7 +526,7 @@
       <title>[07/24] Y2K @ Belvederes</title>
       <link>http://arcane.city/events/y2k-belvederes-2026-07-24</link>
       <guid isPermaLink="true">http://arcane.city/events/y2k-belvederes-2026-07-24</guid>
-      <pubDate>Wed, 15 Jul 2026 06:08:14 GMT</pubDate>
+      <pubDate>Wed, 15 Jul 2026 17:07:40 GMT</pubDate>
       <description><![CDATA[<p>Y2K with Gunray &amp; itsdatjawn at Belvedere’s Ultra Dive.</p>
 <p><strong>Venue:</strong> Belvederes</p>
 <p><a href="http://arcane.city/events/y2k-belvederes-2026-07-24">View event on Arcane City</a></p>]]></description>
@@ -546,7 +556,7 @@
       <guid isPermaLink="true">http://arcane.city/events/launching-peace-presented-by-assemble-black-nasa-daid-roy-featuring-live-soundscapes-by-tr-seguritan-abalos-how-things-are-petra-floyd-and-bus-crates</guid>
       <pubDate>Sun, 12 Jul 2026 06:26:40 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1782424011_26_Marketing_InsideOut_LaunchPost_5.webp" alt="Launching Peace presented by Assemble, Black NASA &amp; Daid Roy featuring live soundscapes by trē seguritan abalos, How Things Are, Petra Floyd, and BusCrates flier" /></p>
-<p>Launching Peace presented by Assemble, Black NASA &amp;amp;amp;amp;amp;amp;amp; Daid Roy featuring live soundscapes by trē seguritan abalos, How Things Are, Petra Floyd, and BusCrates</p>
+<p>Launching Peace presented by Assemble, Black NASA &amp;amp;amp;amp;amp;amp;amp;amp; Daid Roy featuring live soundscapes by trē seguritan abalos, How Things Are, Petra Floyd, and BusCrates</p>
 <p><strong>Venue:</strong> Carnegie Museum of Art</p>
 <p><a href="http://arcane.city/events/launching-peace-presented-by-assemble-black-nasa-daid-roy-featuring-live-soundscapes-by-tr-seguritan-abalos-how-things-are-petra-floyd-and-bus-crates">View event on Arcane City</a></p>]]></description>
     </item>
@@ -621,13 +631,13 @@
 <p><a href="http://arcane.city/events/little-gunpowder-whisky-ginger-frog-legs-turtle-park">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
-      <title>[07/25] ENBEATZ: Cosplay Edition @ Harold&amp;amp;amp;amp;amp;amp;apos;s Haunt</title>
+      <title>[07/25] ENBEATZ: Cosplay Edition @ Harold&amp;amp;amp;amp;amp;amp;amp;apos;s Haunt</title>
       <link>http://arcane.city/events/enbeatz-cosplay-edition</link>
       <guid isPermaLink="true">http://arcane.city/events/enbeatz-cosplay-edition</guid>
       <pubDate>Sun, 12 Jul 2026 06:26:40 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1783626261_c7fd7659-8cf5-4b15-8fa7-a837bc77e9b1.webp" alt="ENBEATZ: Cosplay Edition flier" /></p>
 <p>ENBEATZ presents: The unofficial anime convention afterparty</p>
-<p><strong>Venue:</strong> Harold&amp;amp;amp;amp;amp;amp;apos;s Haunt</p>
+<p><strong>Venue:</strong> Harold&amp;amp;amp;amp;amp;amp;amp;apos;s Haunt</p>
 <p><a href="http://arcane.city/events/enbeatz-cosplay-edition">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
@@ -654,7 +664,7 @@
       <title>[07/25] Night Fever @ Belvederes</title>
       <link>http://arcane.city/events/night-fever-disco-belvederes-2026-07-25</link>
       <guid isPermaLink="true">http://arcane.city/events/night-fever-disco-belvederes-2026-07-25</guid>
-      <pubDate>Wed, 15 Jul 2026 06:08:14 GMT</pubDate>
+      <pubDate>Wed, 15 Jul 2026 17:07:40 GMT</pubDate>
       <description><![CDATA[<p>Night Fever — a vintage disco night at Belvedere’s Ultra Dive.</p>
 <p><strong>Venue:</strong> Belvederes</p>
 <p><a href="http://arcane.city/events/night-fever-disco-belvederes-2026-07-25">View event on Arcane City</a></p>]]></description>
@@ -784,7 +794,7 @@
       <guid isPermaLink="true">http://arcane.city/events/pearl-and-the-oysters-monkey-mind-us-ca-tour</guid>
       <pubDate>Wed, 15 Jul 2026 06:08:14 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1778509347_55597fd8-24ff-464a-817d-f1954438d8df.webp" alt="Pearl &amp; The Oysters + Monkey Mind US &amp; CA Tour flier" /></p>
-<p>Pearl &amp; The Oysters and Monkey Mind bring their US &amp; CA tour to Spirit Lodge in Pittsburgh.</p>
+<p>Pearl &amp;amp; The Oysters and Monkey Mind bring their US &amp;amp; CA tour to Spirit Lodge in Pittsburgh.</p>
 <p><strong>Venue:</strong> Spirit</p>
 <p><a href="http://arcane.city/events/pearl-and-the-oysters-monkey-mind-us-ca-tour">View event on Arcane City</a></p>]]></description>
     </item>
