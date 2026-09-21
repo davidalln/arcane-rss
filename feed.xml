@@ -6,7 +6,7 @@
     <atom:link href="http://arcane.city/calendar" rel="self" type="application/rss+xml" />
     <description>Upcoming Arcane City events from 2026-09-21 through the next 14 days.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:12:07 GMT</lastBuildDate>
     <item>
       <title>[09/21] Igorrr, Secret Chiefs 3, Violent Magic Orchestra @ Roxian Theater</title>
       <link>http://arcane.city/events/igorrr-secret-chiefs-3-violent-magic-orchestra</link>
@@ -179,21 +179,11 @@
     </item>
     <item>
       <title>[09/24] 2026 Backyard Docs Film Festival @ In theaters across Pittsburgh</title>
-      <link>http://arcane.city/events/a-2026-backyard-docs-film-festival</link>
-      <guid isPermaLink="true">http://arcane.city/events/a-2026-backyard-docs-film-festival</guid>
-      <pubDate>Fri, 18 Sep 2026 18:45:26 GMT</pubDate>
-      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1789755247_2c9b2cc2-fe63-4ca6-8bad-f6eadf631fcb.webp" alt="2026 Backyard Docs Film Festival flier" /></p>
-<p>Pennsylvania's largest documentary film festival featuring stories that redefine the Rust Belt &amp;amp;amp;amp;amp;amp; Appalachia</p>
-<p><strong>Venue:</strong> In theaters across Pittsburgh</p>
-<p><a href="http://arcane.city/events/a-2026-backyard-docs-film-festival">View event on Arcane City</a></p>]]></description>
-    </item>
-    <item>
-      <title>[09/24] 2026 Backyard Docs Film Festival @ In theaters across Pittsburgh</title>
       <link>http://arcane.city/events/bydff26</link>
       <guid isPermaLink="true">http://arcane.city/events/bydff26</guid>
       <pubDate>Fri, 18 Sep 2026 18:45:26 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1789755390_Fest%20poster%20QR.webp" alt="2026 Backyard Docs Film Festival flier" /></p>
-<p>Pennsylvania's largest documentary film festival featuring stories that redefine the Rust Belt &amp;amp;amp;amp;amp;amp; Appalachia</p>
+<p>Pennsylvania's largest documentary film festival featuring stories that redefine the Rust Belt &amp;amp;amp;amp;amp;amp;amp; Appalachia</p>
 <p><strong>Venue:</strong> In theaters across Pittsburgh</p>
 <p><a href="http://arcane.city/events/bydff26">View event on Arcane City</a></p>]]></description>
     </item>
@@ -407,6 +397,16 @@
 <p><a href="http://arcane.city/events/huny-xo-x-soot">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
+      <title>[09/25] Hexxa @ Side Quest</title>
+      <link>http://arcane.city/events/hexxa-20260925</link>
+      <guid isPermaLink="true">http://arcane.city/events/hexxa-20260925</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1790011675_hexxa-20260925-flyer.webp" alt="Hexxa flier" /></p>
+<p>Hexxa at SideQuest on 44th.</p>
+<p><strong>Venue:</strong> Side Quest</p>
+<p><a href="http://arcane.city/events/hexxa-20260925">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
       <title>[09/25] Denny Love (Friday Late Show) @ Bottlerocket Social Hall</title>
       <link>http://arcane.city/events/denny-love-friday-late-show-20260925</link>
       <guid isPermaLink="true">http://arcane.city/events/denny-love-friday-late-show-20260925</guid>
@@ -415,6 +415,16 @@
 <p>Bottlerocket Social Hall, 9:30pm.</p>
 <p><strong>Venue:</strong> Bottlerocket Social Hall</p>
 <p><a href="http://arcane.city/events/denny-love-friday-late-show-20260925">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[09/26] The Afters w/ Krass Advert, Cryptid Yinzer, Honey &amp; Bunny @ Club Pittsburgh</title>
+      <link>http://arcane.city/events/the-afters-w-krass-advert-cryptid-yinzer-honey-bunny</link>
+      <guid isPermaLink="true">http://arcane.city/events/the-afters-w-krass-advert-cryptid-yinzer-honey-bunny</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1790008166_12e8653a-128c-4b8a-a234-7a93f8934bb1.webp" alt="The Afters w/ Krass Advert, Cryptid Yinzer, Honey &amp; Bunny flier" /></p>
+<p>Hex Appeal presents an after-hours club night at Club Pittsburgh with Krass Advert, Cryptid Yinzer, Honey &amp; Bunny.</p>
+<p><strong>Venue:</strong> Club Pittsburgh</p>
+<p><a href="http://arcane.city/events/the-afters-w-krass-advert-cryptid-yinzer-honey-bunny">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
       <title>[09/26] Psychedelic Porn Crumpets @ Mr. Smalls</title>
@@ -447,12 +457,22 @@
 <p><a href="http://arcane.city/events/cherry-bomb-day-party-end-of-summer">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
+      <title>[09/26] Dulci @ Needle</title>
+      <link>http://arcane.city/events/dulci</link>
+      <guid isPermaLink="true">http://arcane.city/events/dulci</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1790013911_c78a3bdc-ef20-45fc-b27a-16545e2feb88.webp" alt="Dulci flier" /></p>
+<p>North Carolina band Dulci brings soaring vocals and deep grooves to Needle &amp; Bean in Pittsburgh.</p>
+<p><strong>Venue:</strong> Needle</p>
+<p><a href="http://arcane.city/events/dulci">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
       <title>[09/26] The Catalyst @ New Hazlett Theater</title>
       <link>http://arcane.city/events/the-catalyst</link>
       <guid isPermaLink="true">http://arcane.city/events/the-catalyst</guid>
       <pubDate>Sun, 13 Sep 2026 08:39:15 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1788626155_76d4f998-383e-4669-9233-f2008a1d9837.webp" alt="The Catalyst flier" /></p>
-<p>Join us for The Catalyst. Hosted by Mils “MJ” James &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Treasure Treasure, this high-energy 20th-anniversary celebration is more of a curated arts experience than a traditional gala.</p>
+<p>Join us for The Catalyst. Hosted by Mils “MJ” James &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Treasure Treasure, this high-energy 20th-anniversary celebration is more of a curated arts experience than a traditional gala.</p>
 <p><strong>Venue:</strong> New Hazlett Theater</p>
 <p><a href="http://arcane.city/events/the-catalyst">View event on Arcane City</a></p>]]></description>
     </item>
@@ -601,7 +621,7 @@
       <guid isPermaLink="true">http://arcane.city/events/ben-harper-innocent-criminals-mr-smalls</guid>
       <pubDate>Mon, 14 Sep 2026 09:25:01 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1786727192_ben-harper-innocent-criminals-mr-smalls.webp" alt="Ben Harper &amp; The Innocent Criminals flier" /></p>
-<p>91.3 WYEP, PromoWest North Shore and Opus One present Ben Harper &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; The Innocent Criminals. Sold out. All ages.</p>
+<p>91.3 WYEP, PromoWest North Shore and Opus One present Ben Harper &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; The Innocent Criminals. Sold out. All ages.</p>
 <p><strong>Venue:</strong> Mr. Smalls</p>
 <p><a href="http://arcane.city/events/ben-harper-innocent-criminals-mr-smalls">View event on Arcane City</a></p>]]></description>
     </item>
@@ -654,6 +674,16 @@
 <p>Longturn Music presents Anatta for an open-air rooftop party in Pittsburgh with fire performers at sunset and support from Hoagie Dreams, Koopmusik, and Nocasino.</p>
 <p><strong>Venue:</strong> Finch</p>
 <p><a href="http://arcane.city/events/anatta-sunday-shift-rooftop-party">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[09/27] Cage Rave @ Ask a punk</title>
+      <link>http://arcane.city/events/cage-rave</link>
+      <guid isPermaLink="true">http://arcane.city/events/cage-rave</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1790012798_baad.entertainment_1790010689_3991213122819581270_62325852067.webp" alt="Cage Rave flier" /></p>
+<p>A free daytime rave at a secret Pittsburgh location featuring Jægüär, Rob Chilldren, Cereza, Free-Incarnated, Borealis, and BAAD.</p>
+<p><strong>Venue:</strong> Ask a punk</p>
+<p><a href="http://arcane.city/events/cage-rave">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
       <title>[09/27] The 41st Glitterbox Theater 10 Minute Play Fest! @ Glitter Box Theater (Homestead)</title>
@@ -766,6 +796,16 @@
 <p><a href="http://arcane.city/events/camping-in-alaska-kwarter-zip-foreverforaday">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
+      <title>[09/28] Mount Pom / Andy Boy and the Keys to the City / Tyler Heaven @ Poetry Lounge</title>
+      <link>http://arcane.city/events/mount-pom-andy-boy-and-the-keys-to-the-city-tyler-heaven-20260928</link>
+      <guid isPermaLink="true">http://arcane.city/events/mount-pom-andy-boy-and-the-keys-to-the-city-tyler-heaven-20260928</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1790011248_mount-pom-andy-boy-and-the-keys-to-the-c-flyer.webp" alt="Mount Pom / Andy Boy and the Keys to the City / Tyler Heaven flier" /></p>
+<p>Mount Pom, Andy Boy and the Keys to the City, and Tyler Heaven at Poetry Lounge.</p>
+<p><strong>Venue:</strong> Poetry Lounge</p>
+<p><a href="http://arcane.city/events/mount-pom-andy-boy-and-the-keys-to-the-city-tyler-heaven-20260928">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
       <title>[09/28] Gogol Bordello: We Mean It, Man! Tour 2026 @ Mr. Smalls</title>
       <link>http://arcane.city/events/gogol-bordello-we-mean-it-man-tour-2026</link>
       <guid isPermaLink="true">http://arcane.city/events/gogol-bordello-we-mean-it-man-tour-2026</guid>
@@ -784,6 +824,16 @@
 <p>A DIY night of noise and improvised music at 5128 Penn Ave</p>
 <p><strong>Venue:</strong> Mary</p>
 <p><a href="http://arcane.city/events/a-night-of-noise-and-improvised-music-w-lucite-spine-daia-frogonbough-pterratactl-carrie-sours">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[09/28] Gogol Bordello Afterparty w/ Cassette Jockeys @ Poetry Lounge</title>
+      <link>http://arcane.city/events/gogol-bordello-afterparty-w-cassette-jockeys-20260928</link>
+      <guid isPermaLink="true">http://arcane.city/events/gogol-bordello-afterparty-w-cassette-jockeys-20260928</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1790011349_gogol-bordello-afterparty-w-cassette-joc-flyer.webp" alt="Gogol Bordello Afterparty w/ Cassette Jockeys flier" /></p>
+<p>Gogol Bordello afterparty with Cassette Jockeys (Erica Mancini and Sam Gøødy). Free.</p>
+<p><strong>Venue:</strong> Poetry Lounge</p>
+<p><a href="http://arcane.city/events/gogol-bordello-afterparty-w-cassette-jockeys-20260928">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
       <title>[09/29] Diva Bleach @ Preserving Underground</title>
@@ -956,6 +1006,16 @@
 <p><a href="http://arcane.city/events/pgx-2026-pittsburgh-gaming-expo">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
+      <title>[10/02] Ooh Baby Pittsburgh Pop Up @ Ask a punk</title>
+      <link>http://arcane.city/events/ooh-baby-pittsburgh-pop-up</link>
+      <guid isPermaLink="true">http://arcane.city/events/ooh-baby-pittsburgh-pop-up</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1790013123_ce6664a3-5c3d-46d9-a59e-2a26ae29e86a.webp" alt="Ooh Baby Pittsburgh Pop Up flier" /></p>
+<p>A two-day pop-up shop and trunk show featuring spray-paint customization at Polly &amp; Esther in Pittsburgh.</p>
+<p><strong>Venue:</strong> Ask a punk</p>
+<p><a href="http://arcane.city/events/ooh-baby-pittsburgh-pop-up">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
       <title>[10/02] One Liner Madness @ Spirit</title>
       <link>http://arcane.city/events/one-liner-madness-20261002</link>
       <guid isPermaLink="true">http://arcane.city/events/one-liner-madness-20261002</guid>
@@ -1080,7 +1140,7 @@
       <guid isPermaLink="true">http://arcane.city/events/brian-k-the-parkway-connor-parente-20261003</guid>
       <pubDate>Sun, 20 Sep 2026 08:56:07 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1788838407_images%20%2813%29.webp" alt="Brian K &amp; The Parkway / Connor Parente flier" /></p>
-<p>Brian K &amp;amp;amp; The Parkway / Connor Parente at Poetry Lounge (Millvale). 8pm. $10.</p>
+<p>Brian K &amp;amp;amp;amp; The Parkway / Connor Parente at Poetry Lounge (Millvale). 8pm. $10.</p>
 <p><strong>Venue:</strong> Poetry Lounge</p>
 <p><a href="http://arcane.city/events/brian-k-the-parkway-connor-parente-20261003">View event on Arcane City</a></p>]]></description>
     </item>
@@ -1093,6 +1153,16 @@
 <p>Seventeen years of soul and funk, six hours in the Spirit Lodge</p>
 <p><strong>Venue:</strong> Spirit</p>
 <p><a href="http://arcane.city/events/title-town-soul-funk-party-17-year-anniversary-20261003">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[10/03] Gardenia / Nothing Darling / The Dwellingtons / Seeking Therapy @ Roboto Project</title>
+      <link>http://arcane.city/events/gardenia-nothing-darling-the-dwellingtons-seeking-therapy-20261003</link>
+      <guid isPermaLink="true">http://arcane.city/events/gardenia-nothing-darling-the-dwellingtons-seeking-therapy-20261003</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1754921838_6616e838413b88ea418dafa7_Roboto%20and%20Bunker.webp" alt="Gardenia / Nothing Darling / The Dwellingtons / Seeking Therapy flier" /></p>
+<p>Gardenia, Nothing Darling, The Dwellingtons and Seeking Therapy at Roboto.</p>
+<p><strong>Venue:</strong> Roboto Project</p>
+<p><a href="http://arcane.city/events/gardenia-nothing-darling-the-dwellingtons-seeking-therapy-20261003">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
       <title>[10/03] Castle Gloom II @ Squirrel Hill Sports Bar</title>
@@ -1110,9 +1180,19 @@
       <guid isPermaLink="true">http://arcane.city/events/shapes-jin-and-juice-pvkvsv-live-gusto</guid>
       <pubDate>Sun, 20 Sep 2026 08:56:07 GMT</pubDate>
       <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1789832335_78ba5910-622d-4060-8592-66a0f58553f5.webp" alt="Shapes: Jin &amp; Juice, PVKVSV (Live), Gusto flier" /></p>
-<p>A night of exploratory dance music featuring Jin &amp;amp;amp; Juice, PVKVSV (Live), and Gusto.</p>
+<p>A night of exploratory dance music featuring Jin &amp;amp;amp;amp; Juice, PVKVSV (Live), and Gusto.</p>
 <p><strong>Venue:</strong> Collapse</p>
 <p><a href="http://arcane.city/events/shapes-jin-and-juice-pvkvsv-live-gusto">View event on Arcane City</a></p>]]></description>
+    </item>
+    <item>
+      <title>[10/03] Driftwood After Dark w/ Ricky Mawlzin @ Driftwood Oven</title>
+      <link>http://arcane.city/events/driftwood-after-dark-w-ricky-mawlzin</link>
+      <guid isPermaLink="true">http://arcane.city/events/driftwood-after-dark-w-ricky-mawlzin</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:07 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://arcane-city-library.nyc3.digitaloceanspaces.com/prod/photos/1790007839_0af40cda-a72c-407a-80d6-c4f75a6ac17c.webp" alt="Driftwood After Dark w/ Ricky Mawlzin flier" /></p>
+<p>A late-night pizza, drinks, and dancing party at Driftwood in Lawrenceville featuring resident DJ Scuba Steve with special guest Ricky Mawzlin.</p>
+<p><strong>Venue:</strong> Driftwood Oven</p>
+<p><a href="http://arcane.city/events/driftwood-after-dark-w-ricky-mawlzin">View event on Arcane City</a></p>]]></description>
     </item>
     <item>
       <title>[10/04] glaive – God Save The Three Tour @ Mr. Smalls</title>
